@@ -16,9 +16,11 @@ http://www.mulesoft.org/schema/mule/ee/core http://www.mulesoft.org/schema/mule/
 output application/json
 ---
 {
+	"Message":"Hi Javed",
 	"Time":now()
 }]]></ee:set-payload>
 			</ee:message>
 		</ee:transform>
+		<logger level="INFO" doc:name="Logger" doc:id="d93b6704-5628-4fe9-b0e8-3026de5ec06b" message="#[payload]"/>
 	</flow>
 </mule>
