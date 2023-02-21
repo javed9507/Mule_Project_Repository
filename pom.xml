@@ -32,7 +32,7 @@
 				<configuration>
 				<cloudHubDeployment>
 				<username>Javed1013057</username>
-				<environment>Sendbox</environment>
+				<environment>Sandbox</environment>
 				<workers>1</workers>
 				<workerType>Micro</workerType>
 				<applicationName>LocalDateTime</applicationName>
