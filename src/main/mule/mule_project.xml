@@ -17,7 +17,7 @@ output application/json
 ---
 {
 	"Message":"Hi Javed",
-	"DateTime":now()as LocalDateTime{format:"yyyy-MM-dd HH:mm"}
+	"DateTime":now()
 }]]></ee:set-payload>
 			</ee:message>
 		</ee:transform>
