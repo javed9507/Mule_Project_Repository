@@ -28,12 +28,11 @@
 				<configuration>
 				<cloudHubDeployment>
 				<uri>https://anypoint.mulesoft.com</uri>
-				<server>anypoint</server>
 				<username>Javed1013057</username>
 				<environment>Sandbox</environment>
 				<workers>1</workers>
 				<workerType>Micro</workerType>
-				<applicationName>LocalDateTime</applicationName>
+				<applicationName>Mule_project1</applicationName>
 				<password>Javed7024</password>
 				<muleVersion>4.4.0</muleVersion>
 				</cloudHubDeployment>
