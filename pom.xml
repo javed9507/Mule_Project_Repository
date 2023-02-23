@@ -27,6 +27,8 @@
 				<extensions>true</extensions>
 				<configuration>
 				<cloudHubDeployment>
+				<url>https://anypoin.mulesoft.com</url>
+				<server>anypoint</server>
 				<username>Javed1013057</username>
 				<environment>Sandbox</environment>
 				<workers>1</workers>
